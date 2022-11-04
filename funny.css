@@ -40,15 +40,6 @@ main{
     }
 }
 
-@keyframes rol2 { /*跑馬燈特效*/
-	0% {
-        transform: translateX(0)
-    }
-    100% {
-        transform: translateX(-100%)
-    }
-}
-
 footer{
     font-size: 16px;
     text-align: right;
